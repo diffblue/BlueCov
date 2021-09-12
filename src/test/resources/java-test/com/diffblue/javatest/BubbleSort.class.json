@@ -1,0 +1,256 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "28,29",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "28"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "30",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "16",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "30"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31-34",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "27",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "45",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "38",
+        "description": "function java::com.diffblue.javatest.BubbleSort.sort:([I)V block 9",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "47",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.sort:([I)V",
+          "line": "38"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.BubbleSort.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.BubbleSort.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "8",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "8"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "10",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "10",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "21",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "22",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "16",
+        "description": "function java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "25",
+          "file": "com/diffblue/javatest/BubbleSort.java",
+          "function": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z",
+          "line": "16"
+        }
+      }
+    ]
+  }
+]

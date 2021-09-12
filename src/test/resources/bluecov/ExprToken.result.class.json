@@ -1,0 +1,278 @@
+[
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 56
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 31
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 31
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 31
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.10",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 62
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.11",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 62
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 35
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 23
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 23
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 23
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String;.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 51
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String;.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 51
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 47
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 47
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 39
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 35
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      },
+      {
+        "lineNumber": 19
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 17
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.3",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 40
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.5",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 43
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 62
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 41
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z.coverage.3",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 61
+      },
+      {
+        "lineNumber": 62
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 62
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.6",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 43
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 56
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 61
+      }
+    ]
+  }
+]

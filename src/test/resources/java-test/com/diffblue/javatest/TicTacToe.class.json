@@ -1,0 +1,1322 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 9",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 10",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 11",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 12",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.12",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 13",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.13",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 14",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.14",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "122",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 15",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.15",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "122"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "125",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 16",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.16",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "125"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "129",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 17",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.17",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "129"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "131",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 18",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.18",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "131"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "133",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 19",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.19",
+        "sourceLocation": {
+          "bytecodeIndex": "8",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "133"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "133",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 20",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.20",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "133"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "133",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 21",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.21",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "133"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "133",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 22",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.22",
+        "sourceLocation": {
+          "bytecodeIndex": "16",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "133"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "133",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 23",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.23",
+        "sourceLocation": {
+          "bytecodeIndex": "18",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "133"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "133",
+        "description": "function java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B block 24",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.24",
+        "sourceLocation": {
+          "bytecodeIndex": "19",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B",
+          "line": "133"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "18",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "18"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "19",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "19"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "23,24",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "23"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "25",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "15",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "25"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "26",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "22",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "26"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "26",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "28",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 9",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "33",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "28"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 10",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "37",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "30",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 11",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "40",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "30"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 12",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.12",
+        "sourceLocation": {
+          "bytecodeIndex": "45",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "35",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 13",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.13",
+        "sourceLocation": {
+          "bytecodeIndex": "49",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "35"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "35",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 14",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.14",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "35"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "36",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 16",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.15",
+        "sourceLocation": {
+          "bytecodeIndex": "54",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "36"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "42",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 17",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.16",
+        "sourceLocation": {
+          "bytecodeIndex": "56",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "42"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "42",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 18",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.17",
+        "sourceLocation": {
+          "bytecodeIndex": "59",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "42"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "42",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 19",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.18",
+        "sourceLocation": {
+          "bytecodeIndex": "59",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "42"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "43",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 20",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.19",
+        "sourceLocation": {
+          "bytecodeIndex": "62",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "43"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "43",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 21",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.20",
+        "sourceLocation": {
+          "bytecodeIndex": "71",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "43"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "44",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 22",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.21",
+        "sourceLocation": {
+          "bytecodeIndex": "80",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "44"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "45",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 23",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.22",
+        "sourceLocation": {
+          "bytecodeIndex": "84",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "45"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "46",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 24",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.23",
+        "sourceLocation": {
+          "bytecodeIndex": "87",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "46"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "47",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 25",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.24",
+        "sourceLocation": {
+          "bytecodeIndex": "91",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "47"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "51",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 26",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.25",
+        "sourceLocation": {
+          "bytecodeIndex": "96",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "51"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "51",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 27",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.26",
+        "sourceLocation": {
+          "bytecodeIndex": "109",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "51"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "52",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 28",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.27",
+        "sourceLocation": {
+          "bytecodeIndex": "122",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "52"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "53",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 29",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.28",
+        "sourceLocation": {
+          "bytecodeIndex": "126",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "53"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "54",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 30",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.29",
+        "sourceLocation": {
+          "bytecodeIndex": "131",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "54"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "55",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 31",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.30",
+        "sourceLocation": {
+          "bytecodeIndex": "135",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "55"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "42",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 32",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.31",
+        "sourceLocation": {
+          "bytecodeIndex": "140",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "42"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "61",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 33",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.32",
+        "sourceLocation": {
+          "bytecodeIndex": "144",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "61"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "61",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 34",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.33",
+        "sourceLocation": {
+          "bytecodeIndex": "151",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "61"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 35",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.34",
+        "sourceLocation": {
+          "bytecodeIndex": "158",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "63",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 36",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.35",
+        "sourceLocation": {
+          "bytecodeIndex": "162",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "63"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "64",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 37",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.36",
+        "sourceLocation": {
+          "bytecodeIndex": "165",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "64"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "65",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 38",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.37",
+        "sourceLocation": {
+          "bytecodeIndex": "169",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "65"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "70",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 39",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.38",
+        "sourceLocation": {
+          "bytecodeIndex": "172",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "70"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "70",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 40",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.39",
+        "sourceLocation": {
+          "bytecodeIndex": "179",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "70"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "71",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 41",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.40",
+        "sourceLocation": {
+          "bytecodeIndex": "186",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "71"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "72",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 42",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.41",
+        "sourceLocation": {
+          "bytecodeIndex": "190",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "72"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "73",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 43",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.42",
+        "sourceLocation": {
+          "bytecodeIndex": "193",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "73"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "74",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 44",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.43",
+        "sourceLocation": {
+          "bytecodeIndex": "197",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "74"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "79",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B block 45",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.44",
+        "sourceLocation": {
+          "bytecodeIndex": "199",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B",
+          "line": "79"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.TicTacToe.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.TicTacToe.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "95",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "95"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "95",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "95"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "95",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "11",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "95"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "96",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "96"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "99",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "21",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "99"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "99",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "21",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "99"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 9",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "26",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 10",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "29",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 11",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "33",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 12",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "38",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 13",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "44",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 14",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.12",
+        "sourceLocation": {
+          "bytecodeIndex": "45",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "99,100",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 15",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.13",
+        "sourceLocation": {
+          "bytecodeIndex": "45",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "100"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 16",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.14",
+        "sourceLocation": {
+          "bytecodeIndex": "51",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 17",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.15",
+        "sourceLocation": {
+          "bytecodeIndex": "51",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 18",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.16",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 19",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.17",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 20",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.18",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 21",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.19",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 22",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.20",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 23",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.21",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 24",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.22",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 25",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.23",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 26",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.24",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 27",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.25",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 28",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.26",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "102",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 29",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.27",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "102"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "105",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 30",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.28",
+        "sourceLocation": {
+          "bytecodeIndex": "54",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "105"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "108",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 31",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.29",
+        "sourceLocation": {
+          "bytecodeIndex": "56",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "108"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "111",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 32",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.30",
+        "sourceLocation": {
+          "bytecodeIndex": "58",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "111"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "114",
+        "description": "function java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C block 33",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.31",
+        "sourceLocation": {
+          "bytecodeIndex": "60",
+          "file": "com/diffblue/javatest/TicTacToe.java",
+          "function": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C",
+          "line": "114"
+        }
+      }
+    ]
+  }
+]

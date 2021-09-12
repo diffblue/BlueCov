@@ -1,0 +1,122 @@
+[
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.16",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 30
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.15",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.14",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.13",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 25
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 19
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.11",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 19
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.4",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 21
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.5",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 21
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.6",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 23
+      },
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.7",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      }
+    ]
+  }
+]

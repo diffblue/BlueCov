@@ -1,0 +1,334 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Calc.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Calc.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Calc.java",
+          "function": "java::com.diffblue.javatest.Calc.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Calc.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Calc.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/Calc.java",
+          "function": "java::com.diffblue.javatest.Calc.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "5",
+        "description": "function java::com.diffblue.javatest.Calc.div:(II)I block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Calc.div:(II)I.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/Calc.java",
+          "function": "java::com.diffblue.javatest.Calc.div:(II)I",
+          "line": "5"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Main.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Main.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "8",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "8"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "8,9",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "8"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "9,10",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "9"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "8",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11,12",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "20",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 9",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "20",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 10",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "22",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 11",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "23",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "13",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 12",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.12",
+        "sourceLocation": {
+          "bytecodeIndex": "25",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "13"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "14",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 13",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.13",
+        "sourceLocation": {
+          "bytecodeIndex": "28",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "14"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "16",
+        "description": "function java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V block 14",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.14",
+        "sourceLocation": {
+          "bytecodeIndex": "29",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V",
+          "line": "16"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "22",
+        "description": "function java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V",
+          "line": "22"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "23",
+        "description": "function java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "6",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V",
+          "line": "23"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "8",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "28",
+        "description": "function java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "18",
+          "file": "com/diffblue/javatest/Main.java",
+          "function": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V",
+          "line": "28"
+        }
+      }
+    ]
+  }
+]

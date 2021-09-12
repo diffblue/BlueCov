@@ -1,0 +1,490 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Validation.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Validation.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10,11",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 7",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 8",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 9",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 10",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 11",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 12",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.12",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 13",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.13",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 14",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.14",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 15",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.15",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 16",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.16",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "14",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 17",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.17",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "14"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "15",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 18",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.18",
+        "sourceLocation": {
+          "bytecodeIndex": "16",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "15"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "17,18",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 19",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.19",
+        "sourceLocation": {
+          "bytecodeIndex": "19",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "17"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "21",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 20",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.20",
+        "sourceLocation": {
+          "bytecodeIndex": "23",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "21"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "22",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 21",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.21",
+        "sourceLocation": {
+          "bytecodeIndex": "27",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "22"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24,25",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 22",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.22",
+        "sourceLocation": {
+          "bytecodeIndex": "30",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "28",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 23",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.23",
+        "sourceLocation": {
+          "bytecodeIndex": "34",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "28"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 24",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.24",
+        "sourceLocation": {
+          "bytecodeIndex": "38",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31,32",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 25",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.25",
+        "sourceLocation": {
+          "bytecodeIndex": "41",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "35",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 26",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.26",
+        "sourceLocation": {
+          "bytecodeIndex": "45",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "35"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "36",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 27",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.27",
+        "sourceLocation": {
+          "bytecodeIndex": "49",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "36"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "38,39",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 28",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.28",
+        "sourceLocation": {
+          "bytecodeIndex": "52",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "38"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "42",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 29",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.29",
+        "sourceLocation": {
+          "bytecodeIndex": "56",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "42"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "43",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 30",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.30",
+        "sourceLocation": {
+          "bytecodeIndex": "60",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "43"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "45,46",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 31",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.31",
+        "sourceLocation": {
+          "bytecodeIndex": "63",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "45"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "51",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 32",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.32",
+        "sourceLocation": {
+          "bytecodeIndex": "67",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "51"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "52",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 33",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.33",
+        "sourceLocation": {
+          "bytecodeIndex": "69",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "52"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 34",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.34",
+        "sourceLocation": {
+          "bytecodeIndex": "70",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z block 35",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.35",
+        "sourceLocation": {
+          "bytecodeIndex": "73",
+          "file": "com/diffblue/javatest/Validation.java",
+          "function": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z",
+          "line": "56"
+        }
+      }
+    ]
+  }
+]

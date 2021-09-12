@@ -1,0 +1,1466 @@
+[
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.33",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 52
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.<init>:()V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.34",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.35",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 56
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.<init>:()V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.<init>:()V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Calc.<init>:()V.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.44",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 79
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.43",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 74
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.42",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 73
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.41",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 72
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Calc.<init>:()V.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.40",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 71
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.26",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 35
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.27",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 36
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.28",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 38
+      },
+      {
+        "lineNumber": 39
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.29",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 42
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.22",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      },
+      {
+        "lineNumber": 25
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.23",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 28
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.24",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.25",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 31
+      },
+      {
+        "lineNumber": 32
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 17
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 13
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 12
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.30",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 43
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.31",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 45
+      },
+      {
+        "lineNumber": 46
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.32",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 51
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 8
+      },
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 28
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.29",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 54
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.<init>:()V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.17",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 14
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.28",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 53
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.27",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 52
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 19
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.18",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 15
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 23
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.26",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 51
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 23
+      },
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.25",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 51
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 21
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.24",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 47
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.main:([Ljava/lang/String;)V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 22
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 25
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.23",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 46
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.7",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 26
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.9",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 28
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.19",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 17
+      },
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 13
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 10
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.22",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 45
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.21",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 44
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.20",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 21
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.20",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 43
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.21",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 22
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.39",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 70
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.38",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 70
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.37",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 65
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.36",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 64
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.35",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 63
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.34",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 62
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.33",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 61
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.32",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 61
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.31",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 42
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.30",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 55
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Calc.div:(II)I.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 5
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.19",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 43
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.11",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 12
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.9",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 100
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.10",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 12
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.17",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 42
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.16",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 42
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.15",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 36
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.14",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 16
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.14",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 35
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.13",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 35
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.13",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 14
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.12",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.12",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 13
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 95
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 95
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 95
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 96
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 99
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.7",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 100
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 100
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 10
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.<init>:()V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 9
+      },
+      {
+        "lineNumber": 10
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.<init>:()V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 122
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 12
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 16
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.11",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 30
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([B)B.coverage.10",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.7",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 10
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 12
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 10
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 10
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.checkSort:([I)Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 8
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Main.divide:(Ljava/lang/String;Ljava/lang/String;)V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 8
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.7",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.16",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 125
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.17",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 129
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 15
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 16
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.checkItemCost:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 15
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.7",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 31
+      },
+      {
+        "lineNumber": 32
+      },
+      {
+        "lineNumber": 33
+      },
+      {
+        "lineNumber": 34
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.31",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 114
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.8",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.30",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 111
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.18",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 131
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.19",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 133
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.6",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 30
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.3",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 28
+      },
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 24
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.28",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 105
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 3
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.BubbleSort.sort:([I)V.coverage.9",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 38
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.29",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 108
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.23",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 133
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.24",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 133
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.22",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 133
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 10
+      },
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.Validation.containsUnsafeSequence:([C)Z.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 12
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.16",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 102
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.<init>:(Lcom/diffblue/javatest/nestedobjects/subpackage/Order;)V.coverage.2",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 8
+      },
+      {
+        "lineNumber": 9
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.nestedobjects.User.<init>:(Lcom/diffblue/javatest/nestedobjects/subpackage/Order;)V.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 7
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.14",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 102
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.12",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 100
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.11",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 100
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.checkTicTacToePosition:([C[C[C)C.coverage.10",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 100
+      }
+    ]
+  },
+  {
+    "goalID": "java::com.diffblue.javatest.TicTacToe.ticTacToeCharToByte:(C)B.coverage.20",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 133
+      }
+    ]
+  }
+]

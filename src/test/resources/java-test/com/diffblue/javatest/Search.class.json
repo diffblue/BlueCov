@@ -1,0 +1,113 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Search.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Search.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "8,11",
+        "description": "function java::com.diffblue.javatest.Search.contains:([II)Z block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.contains:([II)Z",
+          "line": "8"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Search.contains:([II)Z block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.contains:([II)Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::com.diffblue.javatest.Search.contains:([II)Z block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "10",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.contains:([II)Z",
+          "line": "12"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "13",
+        "description": "function java::com.diffblue.javatest.Search.contains:([II)Z block 4",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.contains:([II)Z",
+          "line": "13"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.Search.contains:([II)Z block 5",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "15",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.contains:([II)Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "17",
+        "description": "function java::com.diffblue.javatest.Search.contains:([II)Z block 6",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Search.contains:([II)Z.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "18",
+          "file": "com/diffblue/javatest/Search.java",
+          "function": "java::com.diffblue.javatest.Search.contains:([II)Z",
+          "line": "17"
+        }
+      }
+    ]
+  }
+]

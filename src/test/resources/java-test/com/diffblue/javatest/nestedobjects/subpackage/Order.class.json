@@ -1,0 +1,126 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "13",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z block 3",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "6",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.hasItem:()Z",
+          "line": "13"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "21",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z",
+          "line": "21"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "21-23",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Order.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Order.setItem:(Lcom/diffblue/javatest/nestedobjects/subpackage/Item;)Z",
+          "line": "21"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Item.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Item.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V",
+          "line": "3"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Calc.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Calc.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/Calc.java",
+          "function": "java::com.diffblue.javatest.Calc.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.Calc.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Calc.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/Calc.java",
+          "function": "java::com.diffblue.javatest.Calc.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "5",
+        "description": "function java::com.diffblue.javatest.Calc.div:(II)I block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.Calc.div:(II)I.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "com/diffblue/javatest/Calc.java",
+          "function": "java::com.diffblue.javatest.Calc.div:(II)I",
+          "line": "5"
+        }
+      }
+    ]
+  }
+]

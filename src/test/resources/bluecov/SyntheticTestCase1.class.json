@@ -1,0 +1,217 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "9",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V",
+          "line": "9"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "11",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V",
+          "line": "11"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "18",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D",
+          "line": "18"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "19",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D block 7",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D",
+          "line": "19"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "20",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D block 8",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D",
+          "line": "20"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "22",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D block 9",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "17",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D",
+          "line": "22"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "14",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method1:(III)I block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method1:(III)I.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method1:(III)I",
+          "line": "14"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "26",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "0",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "26"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "26,27",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "26"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27,28",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "28",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 5",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "28"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 6",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29,30",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 7",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 8",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "19",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 9",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "19",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "33",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V block 10",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "21",
+          "file": "org/cprover/coverage/benchmarks/SyntheticTestCase1.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V",
+          "line": "33"
+        }
+      }
+    ]
+  }
+]

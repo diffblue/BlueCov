@@ -1,0 +1,35 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Item.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V block 2",
+        "expression": "false",
+        "name": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "com/diffblue/javatest/nestedobjects/subpackage/Item.java",
+          "function": "java::com.diffblue.javatest.nestedobjects.subpackage.Item.<init>:()V",
+          "line": "3"
+        }
+      }
+    ]
+  }
+]

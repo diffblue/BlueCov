@@ -1,0 +1,735 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsBracket:()Z",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "17",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V",
+          "line": "17"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "18,19",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.<init>:(Lorg/cprover/coverage/benchmarks/ExprToken$Type;Ljava/lang/Object;)V",
+          "line": "18"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "23",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z",
+          "line": "23"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "23",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z",
+          "line": "23"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "23",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsOperator:()Z",
+          "line": "23"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "31",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.IsWord:()Z",
+          "line": "31"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "35",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C",
+          "line": "35"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "35",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C",
+          "line": "35"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "35",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetSymbol:()C",
+          "line": "35"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "39",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "39"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "39,40",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "39"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "40",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "40"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "41",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "6",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "41"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "43",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 5",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "9",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "43"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "43",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 7",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "10",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "43"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "43",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C block 8",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "10",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetBracket:()C",
+          "line": "43"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "47",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C",
+          "line": "47"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "47",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C",
+          "line": "47"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "47",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetOperator:()C",
+          "line": "47"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "51",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String; block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String;.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String;",
+          "line": "51"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "51",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String; block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String;.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.GetWord:()Ljava/lang/String;",
+          "line": "51"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String; block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;",
+          "line": "56"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String; block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;",
+          "line": "56"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function  block 3",
+        "expression": "false",
+        "name": "coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "line": "56"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String; block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;",
+          "line": "56"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String; block 5",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;",
+          "line": "56"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "56",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String; block 6",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.toString:()Ljava/lang/String;",
+          "line": "56"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "61",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "61"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "61,62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "61"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 5",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 6",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 7",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 8",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 9",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 10",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "13",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 11",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "15",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "62",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z block 12",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "17",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken.equals:(Ljava/lang/Object;)Z",
+          "line": "62"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "6",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<init>:(Ljava/lang/String;I)V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<init>:(Ljava/lang/String;I)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "3",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<init>:(Ljava/lang/String;I)V",
+          "line": "6"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "7",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "0",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "7"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "7",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 5",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "6",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "7"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "7",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 8",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "7"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "6",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 11",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "23",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "6"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "6",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 12",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "27",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "6"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "6",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 13",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "31",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "6"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "6",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V block 14",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "33",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.<clinit>:()V",
+          "line": "6"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "1",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.values:()[Lorg/cprover/coverage/benchmarks/ExprToken$Type; block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.values:()[Lorg/cprover/coverage/benchmarks/ExprToken$Type;.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.values:()[Lorg/cprover/coverage/benchmarks/ExprToken$Type;",
+          "line": "1"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "1",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.values:()[Lorg/cprover/coverage/benchmarks/ExprToken$Type; block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.values:()[Lorg/cprover/coverage/benchmarks/ExprToken$Type;.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "15",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.values:()[Lorg/cprover/coverage/benchmarks/ExprToken$Type;",
+          "line": "1"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "1",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.valueOf:(Ljava/lang/String;)Lorg/cprover/coverage/benchmarks/ExprToken$Type; block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.valueOf:(Ljava/lang/String;)Lorg/cprover/coverage/benchmarks/ExprToken$Type;.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.valueOf:(Ljava/lang/String;)Lorg/cprover/coverage/benchmarks/ExprToken$Type;",
+          "line": "1"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "1",
+        "description": "function  block 2",
+        "expression": "false",
+        "name": "coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "line": "1"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "1",
+        "description": "function java::org.cprover.coverage.benchmarks.ExprToken$Type.valueOf:(Ljava/lang/String;)Lorg/cprover/coverage/benchmarks/ExprToken$Type; block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.ExprToken$Type.valueOf:(Ljava/lang/String;)Lorg/cprover/coverage/benchmarks/ExprToken$Type;.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "4",
+          "file": "org/cprover/coverage/benchmarks/ExprToken.java",
+          "function": "java::org.cprover.coverage.benchmarks.ExprToken$Type.valueOf:(Ljava/lang/String;)Lorg/cprover/coverage/benchmarks/ExprToken$Type;",
+          "line": "1"
+        }
+      }
+    ]
+  }
+]

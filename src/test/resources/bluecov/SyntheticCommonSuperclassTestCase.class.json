@@ -1,0 +1,282 @@
+[
+  {
+    "program": "JBMC"
+  },
+  {
+    "properties": [
+      {
+        "class": "coverage",
+        "coveredLines": "4",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$A.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$A.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$A.<init>:()V",
+          "line": "4"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "10",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$B.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$B.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$B.<init>:()V",
+          "line": "10"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "6",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$A.f:()I block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$A.f:()I.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$A.f:()I",
+          "line": "6"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "3",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.<init>:()V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.<init>:()V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.<init>:()V",
+          "line": "3"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "18",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "18"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "19",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 2",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.2",
+        "sourceLocation": {
+          "bytecodeIndex": "2",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "19"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "19",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 3",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.3",
+        "sourceLocation": {
+          "bytecodeIndex": "5",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "19"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "21",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 4",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.4",
+        "sourceLocation": {
+          "bytecodeIndex": "7",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "21"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "21",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 5",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.5",
+        "sourceLocation": {
+          "bytecodeIndex": "10",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "21"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "23,24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 6",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.6",
+        "sourceLocation": {
+          "bytecodeIndex": "12",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "23"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 7",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.7",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 8",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.8",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 9",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.9",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 10",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.10",
+        "sourceLocation": {
+          "bytecodeIndex": "14",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 11",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.11",
+        "sourceLocation": {
+          "bytecodeIndex": "15",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "24",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 12",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.12",
+        "sourceLocation": {
+          "bytecodeIndex": "15",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "24"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "25",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 13",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.13",
+        "sourceLocation": {
+          "bytecodeIndex": "16",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "25"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "27",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 14",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.14",
+        "sourceLocation": {
+          "bytecodeIndex": "18",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "27"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "29",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 15",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.15",
+        "sourceLocation": {
+          "bytecodeIndex": "21",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "29"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "30",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V block 16",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V.coverage.16",
+        "sourceLocation": {
+          "bytecodeIndex": "22",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase.f:(Z)V",
+          "line": "30"
+        }
+      },
+      {
+        "class": "coverage",
+        "coveredLines": "12",
+        "description": "function java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$B.f:()I block 1",
+        "expression": "false",
+        "name": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$B.f:()I.coverage.1",
+        "sourceLocation": {
+          "bytecodeIndex": "1",
+          "file": "org/cprover/coverage/benchmarks/SyntheticCommonSuperclassTestCase.java",
+          "function": "java::org.cprover.coverage.benchmarks.SyntheticCommonSuperclassTestCase$B.f:()I",
+          "line": "12"
+        }
+      }
+    ]
+  }
+]

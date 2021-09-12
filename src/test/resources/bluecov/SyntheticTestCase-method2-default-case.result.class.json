@@ -1,0 +1,134 @@
+[
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.3",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 20
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 19
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 18
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 9
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method2:(DD)D.coverage.4",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 22
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.<init>:()V.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 11
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.9",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 33
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.7",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 31
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.method1:(III)I.coverage.1",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 14
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.1",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 26
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.5",
+    "hitCount": 0,
+    "coveredLines": [
+      {
+        "lineNumber": 29
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.4",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 28
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.3",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 27
+      },
+      {
+        "lineNumber": 28
+      }
+    ]
+  },
+  {
+    "goalID": "java::org.cprover.coverage.benchmarks.SyntheticTestCase1.function:(IIIDD)V.coverage.2",
+    "hitCount": 1,
+    "coveredLines": [
+      {
+        "lineNumber": 26
+      },
+      {
+        "lineNumber": 27
+      }
+    ]
+  }
+]
