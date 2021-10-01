@@ -143,7 +143,7 @@ public final class CoverageInstrument {
 
     for (int i = 0; i < properties.size(); i++) {
       JsonObject entry = properties.getJsonObject(i);
-      String cbmcName = entry.getString("name");
+      String jbmcName = entry.getString("name");
 
       if (entry.containsKey(SOURCE_LOCATION)) {
         JsonObject jSourceLoc = entry.getJsonObject(SOURCE_LOCATION);
@@ -196,13 +196,13 @@ public final class CoverageInstrument {
             offsetIdMap.put(hashCode, uid);
             int[] lineNums = new int[lineNumbers.size()];
             if (lineNumbers.size() == 0) {
-              System.out.println("ERROR: no line numbers for " + cbmcName);
+              System.out.println("ERROR: no line numbers for " + jbmcName);
             }
             for (int k = 0; k < lineNums.length; k++) {
               lineNums[k] = (Integer) lineNumbers.get(k);
             }
             logger
-                .register(uid, cbmcName, className, method, bcLine, lineNums);
+                .register(uid, jbmcName, className, method, bcLine, lineNums);
             System.out
                 .println("register ID " + uid + " "
                     + logger.getBasicBlockID(className, method, bcLine));

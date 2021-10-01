@@ -60,9 +60,9 @@ public final class CoverageLog extends Thread {
    */
   private String descriptionMap = "descriptionMap";
   /**
-   * <code>cbmcNameMap</code> maps UID to JBMC internal name.
+   * <code>jbmcNameMap</code> maps UID to JBMC internal name.
    */
-  private String cbmcNameMap = "nameMap";
+  private String jbmcNameMap = "nameMap";
   /**
    * Indicates that all {@link DB} objects should use {@link DBMaker.Maker#cleanerHackEnable()}.
    */
@@ -138,7 +138,7 @@ public final class CoverageLog extends Thread {
         .keySerializer(Serializer.STRING)
         .valueSerializer(Serializer.INTEGER)
         .createOrOpen();
-    nameMap = db.hashMap(cbmcNameMap)
+    nameMap = db.hashMap(jbmcNameMap)
         .keySerializer(Serializer.INTEGER)
         .valueSerializer(Serializer.STRING)
         .createOrOpen();
@@ -233,7 +233,7 @@ public final class CoverageLog extends Thread {
    * <code>register</code> basic block in database.
    *
    * @param key         UID <code>int</code> value
-   * @param cbmcName    name of property used by JBMC <code>String</code>
+   * @param jbmcName    name of property used by JBMC <code>String</code>
    * @param className   name of class as <code>String</code>
    * @param methodName  name of method + signature as <code>String</code>
    * @param bcLoc       bytecode offset of basic block as <code>int</code>
@@ -241,7 +241,7 @@ public final class CoverageLog extends Thread {
    */
   public void register(
       final int key,
-      final String cbmcName,
+      final String jbmcName,
       final String className,
       final String methodName,
       final int bcLoc,
@@ -250,7 +250,7 @@ public final class CoverageLog extends Thread {
     if (!locMap.containsKey(key)) {
       locMap.put(key, desc);
       descMap.put(desc, key);
-      nameMap.put(key, cbmcName);
+      nameMap.put(key, jbmcName);
       lineMap.put(key, lineNumbers);
       id++;
     }
