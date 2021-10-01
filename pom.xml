@@ -143,13 +143,13 @@
     <dependency>
       <artifactId>mapdb</artifactId>
       <groupId>org.mapdb</groupId>
-      <version>3.0.3</version>
+      <version>3.0.8</version>
       <!-- <scope>runtime</scope> -->
     </dependency>
     <dependency>
       <artifactId>asm</artifactId>
       <groupId>org.ow2.asm</groupId>
-      <version>5.1</version>
+      <version>9.2</version>
     </dependency>
     <dependency>
       <artifactId>javax.json</artifactId>
